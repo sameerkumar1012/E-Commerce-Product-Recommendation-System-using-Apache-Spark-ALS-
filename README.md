@@ -1,1 +1,2 @@
-# E-Commerce-Product-Recommendation-System-using-Apache-Spark-ALS-
+# E-Commerce Recommendation System (Spark ALS)
+Full project template...
